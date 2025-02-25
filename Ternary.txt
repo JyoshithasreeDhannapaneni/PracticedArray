@@ -1,0 +1,9 @@
+class Ternary
+{
+  public static void main(String[]args)
+  {
+    int num=25;
+    int num1=35;
+    System.out.println((num+num1)?num:num1);
+  }
+}
