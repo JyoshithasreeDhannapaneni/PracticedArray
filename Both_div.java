@@ -2,7 +2,7 @@ class Both_div
 {
 	public static void main(String[]args)
 	{
-		int num=15;
+		int num=212;
 	if(num%3==0&&num%5==0)
 	{
 		System.out.println("Fizz Buzz");
@@ -17,7 +17,7 @@ class Both_div
 	}
 	else
 	{
-		System.out.println(num+ " it is neither Fizz nor Buzz");
+		System.out.println(num+ " number neither divisible by 3 nor divisible by 5");
 	}
 	}
 }
