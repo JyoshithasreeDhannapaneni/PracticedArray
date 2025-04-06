@@ -2,7 +2,7 @@ class Prime
 {
 	public static void main(String[]args)
 	{
-		int num=12;
+		int num=;
 		int start=2;
 		while(start*start<=num)
 		{
